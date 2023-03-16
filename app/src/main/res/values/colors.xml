@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="background">#0D1B2A</color>
+    <color name="text">#e0e1dd</color>
+    <color name="title">#778da9</color>
+    <color name="button">#778da9</color>
+    <color name="border1">#1B263B</color>
+    <color name="border2">#415a77</color>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
