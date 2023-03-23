@@ -13,4 +13,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="color_start">#F4DEDE</color>
+    <color name="color_middle">#80ECB6</color>
+    <color name="color_end">#66ECF1</color>
 </resources>
+
